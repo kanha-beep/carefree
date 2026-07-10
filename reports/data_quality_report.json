@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-07-10T07:58:20.890936+00:00",
+  "row_count": 101766,
+  "column_count": 50,
+  "duplicate_rows": 0,
+  "issue_count": 1,
+  "issues": [
+    "Missing values found: {'max_glu_serum': 96420, 'A1Cresult': 84748}"
+  ],
+  "missing_values": {
+    "max_glu_serum": 96420,
+    "A1Cresult": 84748
+  },
+  "target_distribution": {
+    "NO": 54864,
+    ">30": 35545,
+    "<30": 11357
+  }
+}

@@ -1,0 +1,46 @@
+query_name,readmitted,encounter_count,age,readmission_rate_pct,admission_type_id,time_in_hospital,diag_1,readmitted_encounters
+KPI 1: overall readmission distribution,NO,54864.0,,,,,,
+KPI 1: overall readmission distribution,>30,35545.0,,,,,,
+KPI 1: overall readmission distribution,<30,11357.0,,,,,,
+KPI 2: readmission rate by age bucket,,1657.0,[20-30),14.24,,,,
+KPI 2: readmission rate by age bucket,,17197.0,[80-90),12.08,,,,
+KPI 2: readmission rate by age bucket,,26068.0,[70-80),11.77,,,,
+KPI 2: readmission rate by age bucket,,3775.0,[30-40),11.23,,,,
+KPI 2: readmission rate by age bucket,,22483.0,[60-70),11.13,,,,
+KPI 2: readmission rate by age bucket,,2793.0,[90-100),11.1,,,,
+KPI 2: readmission rate by age bucket,,9685.0,[40-50),10.6,,,,
+KPI 2: readmission rate by age bucket,,17256.0,[50-60),9.67,,,,
+KPI 2: readmission rate by age bucket,,691.0,[10-20),5.79,,,,
+KPI 2: readmission rate by age bucket,,161.0,[0-10),1.86,,,,
+KPI 3: readmission rate by admission type,,53990.0,,11.52,1.0,,,
+KPI 3: readmission rate by admission type,,18480.0,,11.18,2.0,,,
+KPI 3: readmission rate by admission type,,5291.0,,11.08,6.0,,,
+KPI 3: readmission rate by admission type,,18869.0,,10.39,3.0,,,
+KPI 3: readmission rate by admission type,,4785.0,,10.34,5.0,,,
+KPI 3: readmission rate by admission type,,10.0,,10.0,4.0,,,
+KPI 3: readmission rate by admission type,,320.0,,8.44,8.0,,,
+KPI 3: readmission rate by admission type,,21.0,,0.0,7.0,,,
+KPI 4: readmission rate by length of stay,,14208.0,,8.18,,1.0,,
+KPI 4: readmission rate by length of stay,,17224.0,,9.94,,2.0,,
+KPI 4: readmission rate by length of stay,,17756.0,,10.67,,3.0,,
+KPI 4: readmission rate by length of stay,,13924.0,,11.81,,4.0,,
+KPI 4: readmission rate by length of stay,,9966.0,,12.03,,5.0,,
+KPI 4: readmission rate by length of stay,,7539.0,,12.59,,6.0,,
+KPI 4: readmission rate by length of stay,,5859.0,,12.83,,7.0,,
+KPI 4: readmission rate by length of stay,,4391.0,,14.23,,8.0,,
+KPI 4: readmission rate by length of stay,,3002.0,,13.72,,9.0,,
+KPI 4: readmission rate by length of stay,,2342.0,,14.35,,10.0,,
+KPI 4: readmission rate by length of stay,,1855.0,,10.51,,11.0,,
+KPI 4: readmission rate by length of stay,,1448.0,,13.33,,12.0,,
+KPI 4: readmission rate by length of stay,,1210.0,,12.31,,13.0,,
+KPI 4: readmission rate by length of stay,,1042.0,,12.96,,14.0,,
+KPI 5: top primary diagnoses associated with readmission,,,,,,,428,968.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,414,595.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,410,373.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,434,329.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,486,314.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,786,291.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,491,287.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,996,264.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,276,257.0
+KPI 5: top primary diagnoses associated with readmission,,,,,,,427,252.0
